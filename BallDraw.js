@@ -1,7 +1,7 @@
 function BallDraw(){
     this.ballDrawnNumber =[];
     this.ballDrawnLetter =[];
-
+// I wannted to test git commit so I changed the file using this comment 
     this.drawBall = () =>{
         let repeat =0;
         let ballLetter;
